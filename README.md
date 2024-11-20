@@ -1,2 +1,2 @@
 # cursohenry2011
-creacion de segundo repositorio
+ya modifique el nombre del archivo . cree el repositorio y lo clone
